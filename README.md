@@ -2,7 +2,7 @@
 
 This is a sentiments analysis example using LSTM. I tried 2 different datasets
 
-a. https://www.kaggle.com/aaron7sun/stocknews
+a. https://www.kaggle.com/aaron7sun/stocknews  
 b. Amazon food review dataset - https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 stocknews dataset is really small and all attempts to learn on such small dataset don't generalize. 
